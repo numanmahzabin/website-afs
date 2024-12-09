@@ -1,18 +1,7 @@
 # Portfolio - Manage landing page solution
 
-## This is template design of the [Portfolio - GreatStack](https://www.elianajade.com/).
-
-## Table of contents
-
-  - [Demo](#Demo)
-  - [Screenshot](#screenshot)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-
 ### Demo
+
 - Solution URL: https://github.com/numanmahzabin/portfolio-tailwind
 - Live Site URL: https://numanmahzabin.github.io/portfolio-tailwind
 
@@ -23,7 +12,6 @@
 ![Desktop view Light Theme](./design/desktop-view-light.png)
 ![Desktop view Dark Theme](./design/desktop-view-dark.png)
 
-
 ### Built with
 
 - HTML5
@@ -32,27 +20,6 @@
 - Usebasin [for handling forms]
 - reCAPTCHA v2
 - Dark Theme included
-
-### What I learned
-
-This is my second project in Tailwind CSS. In this project I learnt to create dark theme feature for my site. Also I learnt form submission feature, including reCAPTCHA v2 and doing basic JS
-
-I learnt to use some basic animation features
-
-### Continued development
-
-Now I want to focus on optimizing my sites and creating a loading page. I noticed that this site takes some time to load all the images. 
-
-I'll try to update it with time as per I learn new things. 
-
-### Useful resources
-
-- https://tailwindcss.com/ - I was learning Tailwind CSS and the entire design was made with Tailwind.
-- https://fonts.google.com/ - I used 'Ovo' and 'Outfit' font from this site.
-- https://github.com/ - I deployed my site here.
-- https://usebasin.com/app/forms - for Forms Handling.
--https://developers.google.com/recaptcha - reCAPTCHA v2
-
 
 ## Author
 
